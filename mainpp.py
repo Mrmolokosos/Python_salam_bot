@@ -2,7 +2,7 @@ from telebot import TeleBot
 import threading
 import time
 
-bot = TeleBot("7763337851:AAF4RmDULesSfGvL-fpTPu0xrw7r18M_vco")
+bot = TeleBot(" ХУЙ ВАМ, А НЕ ТОКЕН")
 
 def send_photos(chat_id):
     for i in range(1, 6):
